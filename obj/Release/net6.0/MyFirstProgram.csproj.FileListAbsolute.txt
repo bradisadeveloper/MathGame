@@ -1,0 +1,15 @@
+C:\C_Sharp_Academy\MyFirstProgram\MyFirstProgram\bin\Release\net6.0\MyFirstProgram.exe
+C:\C_Sharp_Academy\MyFirstProgram\MyFirstProgram\bin\Release\net6.0\MyFirstProgram.deps.json
+C:\C_Sharp_Academy\MyFirstProgram\MyFirstProgram\bin\Release\net6.0\MyFirstProgram.runtimeconfig.json
+C:\C_Sharp_Academy\MyFirstProgram\MyFirstProgram\bin\Release\net6.0\MyFirstProgram.dll
+C:\C_Sharp_Academy\MyFirstProgram\MyFirstProgram\bin\Release\net6.0\MyFirstProgram.pdb
+C:\C_Sharp_Academy\MyFirstProgram\MyFirstProgram\obj\Release\net6.0\MyFirstProgram.csproj.AssemblyReference.cache
+C:\C_Sharp_Academy\MyFirstProgram\MyFirstProgram\obj\Release\net6.0\MyFirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\C_Sharp_Academy\MyFirstProgram\MyFirstProgram\obj\Release\net6.0\MyFirstProgram.AssemblyInfoInputs.cache
+C:\C_Sharp_Academy\MyFirstProgram\MyFirstProgram\obj\Release\net6.0\MyFirstProgram.AssemblyInfo.cs
+C:\C_Sharp_Academy\MyFirstProgram\MyFirstProgram\obj\Release\net6.0\MyFirstProgram.csproj.CoreCompileInputs.cache
+C:\C_Sharp_Academy\MyFirstProgram\MyFirstProgram\obj\Release\net6.0\MyFirstProgram.dll
+C:\C_Sharp_Academy\MyFirstProgram\MyFirstProgram\obj\Release\net6.0\refint\MyFirstProgram.dll
+C:\C_Sharp_Academy\MyFirstProgram\MyFirstProgram\obj\Release\net6.0\MyFirstProgram.pdb
+C:\C_Sharp_Academy\MyFirstProgram\MyFirstProgram\obj\Release\net6.0\MyFirstProgram.genruntimeconfig.cache
+C:\C_Sharp_Academy\MyFirstProgram\MyFirstProgram\obj\Release\net6.0\ref\MyFirstProgram.dll

@@ -1,0 +1,5 @@
+C:\C_Sharp_Academy\FinishedProjects\MyFirstProgram\MyFirstProgram.exe
+C:\C_Sharp_Academy\FinishedProjects\MyFirstProgram\MyFirstProgram.dll
+C:\C_Sharp_Academy\FinishedProjects\MyFirstProgram\MyFirstProgram.deps.json
+C:\C_Sharp_Academy\FinishedProjects\MyFirstProgram\MyFirstProgram.runtimeconfig.json
+C:\C_Sharp_Academy\FinishedProjects\MyFirstProgram\MyFirstProgram.pdb

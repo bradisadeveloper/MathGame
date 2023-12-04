@@ -1,0 +1,5 @@
+C:\Users\tynalde\Desktop\MathGame\MyFirstProgram.exe
+C:\Users\tynalde\Desktop\MathGame\MyFirstProgram.dll
+C:\Users\tynalde\Desktop\MathGame\MyFirstProgram.deps.json
+C:\Users\tynalde\Desktop\MathGame\MyFirstProgram.runtimeconfig.json
+C:\Users\tynalde\Desktop\MathGame\MyFirstProgram.pdb
