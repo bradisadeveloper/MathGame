@@ -21,6 +21,7 @@
         S - Subtraction (-)
         M - Multiplication (*)
         D - Division (/)
+        R - Random
         Q - Quit the program");
                 Console.WriteLine("_____________________________________");
 
@@ -42,6 +43,9 @@
                         break;
                     case "d":
                         gameEngine.DivisionGame("Division game");
+                        break;
+                    case "r":
+                        gameEngine.RandomGame("Random game");
                         break;
                     case "q":
                         Console.WriteLine("See ya");

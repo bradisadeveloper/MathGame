@@ -14,7 +14,8 @@ internal class Game
     //}
     public DateTime Date { get; set; }
     public int Score { get; set; }
-   internal GameType Type { get; set; }
+    internal GameType Type { get; set; }
+    internal Level Level { get; set; }
 }
 
 internal enum GameType
@@ -22,5 +23,13 @@ internal enum GameType
     Addition,
     Subtraction,
     Multiplication,
-    Division
+    Division,
+    Random
+}
+
+internal enum Level
+{
+    Easy,
+    Medium,
+    Hard
 }
